@@ -1,0 +1,6 @@
+{
+  "name": "MovieCut AI - AI Movie Recap & Smart Highlight Generator",
+  "description": "Intelligent AI video editing and recap studio. Analyze long-form movies, detect narrative arcs and key emotional scenes, customize recap durations, and export professional cuts with FFmpeg.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

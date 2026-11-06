@@ -1,0 +1,162 @@
+[
+  {
+    "id": "proj_1793891694388",
+    "title": "Verify Movie",
+    "movieMetadata": {
+      "id": "mov_1793891694494",
+      "title": "Verify Movie",
+      "originalName": "verify_movie.mp4",
+      "duration": 60,
+      "width": 1920,
+      "height": 1080,
+      "fps": 24,
+      "bitrate": 2000000,
+      "size": 4194304,
+      "format": "mp4",
+      "videoUrl": "/storage/uploads/1793891694274_verify_movie.mp4",
+      "videoPath": "/app/applet/storage/uploads/1793891694274_verify_movie.mp4",
+      "posterUrl": "",
+      "uploadedAt": "2026-11-05T15:14:54.495Z",
+      "isSample": false
+    },
+    "activeSettings": {
+      "targetDuration": 30,
+      "presetName": "3-min",
+      "resolution": "1080p",
+      "aspectRatio": "16:9",
+      "transition": "cut",
+      "pacing": "balanced"
+    },
+    "selectedScenes": [],
+    "createdAt": "2026-11-05T15:14:54.495Z",
+    "updatedAt": "2026-11-05T15:14:54.495Z"
+  },
+  {
+    "id": "proj_1793891544807",
+    "title": "Test Movie",
+    "movieMetadata": {
+      "id": "mov_1793891544924",
+      "title": "Test Movie",
+      "originalName": "test_movie.mp4",
+      "duration": 60,
+      "width": 1920,
+      "height": 1080,
+      "fps": 24,
+      "bitrate": 2000000,
+      "size": 3145728,
+      "format": "mp4",
+      "videoUrl": "/storage/uploads/1793891544658_test_movie.mp4",
+      "videoPath": "/app/applet/storage/uploads/1793891544658_test_movie.mp4",
+      "posterUrl": "",
+      "uploadedAt": "2026-11-05T15:12:24.924Z",
+      "isSample": false
+    },
+    "activeSettings": {
+      "targetDuration": 30,
+      "presetName": "3-min",
+      "resolution": "1080p",
+      "aspectRatio": "16:9",
+      "transition": "cut",
+      "pacing": "balanced"
+    },
+    "selectedScenes": [],
+    "createdAt": "2026-11-05T15:12:24.924Z",
+    "updatedAt": "2026-11-05T15:12:24.924Z"
+  },
+  {
+    "id": "proj_1793890537546",
+    "title": "Test Movie Pipe",
+    "movieMetadata": {
+      "id": "mov_1793890537616",
+      "title": "Test Movie Pipe",
+      "originalName": "test_end2end.mp4",
+      "duration": 1,
+      "width": 320,
+      "height": 240,
+      "fps": 24,
+      "bitrate": 209592,
+      "size": 26199,
+      "format": "mov,mp4,m4a,3gp,3g2,mj2",
+      "videoUrl": "/storage/uploads/1793890537456_test_end2end.mp4",
+      "videoPath": "/app/applet/storage/uploads/1793890537456_test_end2end.mp4",
+      "posterUrl": "/storage/thumbnails/proj_1793890537546_poster.jpg",
+      "uploadedAt": "2026-11-05T14:55:37.616Z",
+      "isSample": false
+    },
+    "activeSettings": {
+      "targetDuration": 30,
+      "presetName": "3-min",
+      "resolution": "1080p",
+      "aspectRatio": "16:9",
+      "transition": "cut",
+      "pacing": "balanced"
+    },
+    "selectedScenes": [],
+    "createdAt": "2026-11-05T14:55:37.616Z",
+    "updatedAt": "2026-11-05T14:55:37.616Z"
+  },
+  {
+    "id": "proj_1793890452157",
+    "title": "Test1MB",
+    "movieMetadata": {
+      "id": "mov_1793890452254",
+      "title": "Test1MB",
+      "originalName": "test_1mb.mp4",
+      "duration": 60,
+      "width": 1920,
+      "height": 1080,
+      "fps": 24,
+      "bitrate": 2000000,
+      "size": 1048576,
+      "format": "mp4",
+      "videoUrl": "/storage/uploads/1793890452047_test_1mb.mp4",
+      "videoPath": "/app/applet/storage/uploads/1793890452047_test_1mb.mp4",
+      "posterUrl": "",
+      "uploadedAt": "2026-11-05T14:54:12.254Z",
+      "isSample": false
+    },
+    "activeSettings": {
+      "targetDuration": 30,
+      "presetName": "3-min",
+      "resolution": "1080p",
+      "aspectRatio": "16:9",
+      "transition": "cut",
+      "pacing": "balanced"
+    },
+    "selectedScenes": [],
+    "createdAt": "2026-11-05T14:54:12.254Z",
+    "updatedAt": "2026-11-05T14:54:12.254Z"
+  },
+  {
+    "id": "proj_sample_1793888992076",
+    "title": "Cybernetic Horizon: Origin",
+    "movieMetadata": {
+      "id": "mov_sample_cybernetic",
+      "title": "Cybernetic Horizon: Origin",
+      "originalName": "sample_cybernetic_horizon.mp4",
+      "duration": 100,
+      "width": 1280,
+      "height": 720,
+      "fps": 24,
+      "bitrate": 144819,
+      "size": 1810238,
+      "format": "mov,mp4,m4a,3gp,3g2,mj2",
+      "videoUrl": "/storage/samples/sample_cybernetic_horizon.mp4",
+      "videoPath": "/app/applet/storage/samples/sample_cybernetic_horizon.mp4",
+      "posterUrl": "/storage/thumbnails/sample_poster.jpg",
+      "uploadedAt": "2026-11-05T14:29:52.222Z",
+      "isSample": true
+    },
+    "activeSettings": {
+      "targetDuration": 45,
+      "presetName": "1-min",
+      "resolution": "1080p",
+      "aspectRatio": "16:9",
+      "transition": "cut",
+      "pacing": "balanced"
+    },
+    "selectedScenes": [],
+    "createdAt": "2026-11-05T14:29:52.222Z",
+    "updatedAt": "2026-11-05T14:29:52.222Z"
+  }
+]
